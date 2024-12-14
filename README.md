@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/hectorpuch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+   <img src="https://img.shields.io/static/v1?message=hectorpuch@protonmail.com&logo=gmail&label=Gmail&color=5a5a5a&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
