@@ -1,4 +1,4 @@
-# Hi, I'm Hector Puch
+# Hector Puch
 ## Cyber Security and Ethical Hacking
 
 
