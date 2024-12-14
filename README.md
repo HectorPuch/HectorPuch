@@ -40,4 +40,39 @@
   <img width="12" />
 </div>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+### Certifications
+  
+<div align="left">
+  <a href="https://www.credly.com/badges/eaac8ed8-5b4b-4144-8bce-6d264345192e/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75"/>
+  </a>
+    <a href="https://www.credly.com/badges/ffd79b73-a164-4880-a999-5c945c570d78/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="75"/>
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 ![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/HectorPuch/count.svg?"  />
+
+###
