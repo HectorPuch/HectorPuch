@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Cyber Security and Ethical Hacking</h3>
+<h2 align="center">Cyber Security and Ethical Hacking</h2>
 
 ###
 
