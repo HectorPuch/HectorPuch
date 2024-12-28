@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
 ![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
 
 ###
