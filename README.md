@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HectorPuch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 <p align="left">🌱 I’m currently learning Cyber Security and Ethical Hacking at ENTI (Escola de Noves Tecnologies Interactives).<br><br>💬 Please just ask me about whatever you want and I will answer you if I know about the topic.<br><br>⚡ Fun fact: Hackers can also save the world.</p>
 
 ### Social accounts & Email
