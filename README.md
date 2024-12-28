@@ -19,7 +19,7 @@
 
 <p align="left">🌱 I’m currently learning Cyber Security and Ethical Hacking at ENTI (Escola de Noves Tecnologies Interactives).<br><br>💬 Please just ask me about whatever you want and I will answer you if I know about the topic.<br><br>⚡ Fun fact: Hackers can also save the world.</p>
 
-### Social Accounts & Email
+### Social accounts & Email
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hectorpuch/" target="_blank">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=hectorpuch@protonmail.com&logo=protonmail&label=ProtonMail&color=5a5a5a&logoColor=white&labelColor=8A2BE2&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
+### Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
