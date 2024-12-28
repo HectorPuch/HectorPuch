@@ -17,6 +17,8 @@
 
 <p align="left">🌱 I’m currently learning Cyber Security and Ethical Hacking at ENTI (Escola de Noves Tecnologies Interactives).<br><br>💬 Please just ask me about whatever you want and I will answer you if I know about the topic.<br><br>⚡ Fun fact: Hackers can also save the world.</p>
 
+<br clear="both">
+
 ### Social accounts & Email
 
 <div align="left">
