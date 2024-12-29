@@ -43,6 +43,9 @@
   </a>
 </div>
 
+### 🛡️ TryHackMe Stats
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HectorPuch.png)](https://tryhackme.com/p/Tr4ianus)
+
 ###
 
 ![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
