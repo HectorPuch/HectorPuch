@@ -11,9 +11,9 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Cyber Security and Ethical Hacking at ENTI (Escola de Noves Tecnologies Interactives).<br><br>💬 Please just ask me about whatever you want and I will answer you if I know about the topic.<br><br>⚡ Fun fact: Hackers can also save the world.</p>
+<p align="left">🌱 Currently diving deeper into Cyber Security and Ethical Hacking at ENTI.<br><br>💬 Feel free to reach out with any questions—I’d love to chat about tech, security, or anything you're curious about!<br><br>⚡ Did you know? Ethical hackers help protect people and organizations from cyber threats.</p>
 
-### Social accounts & Email
+### 🌐 Social accounts & Email
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hectorpuch/" target="_blank">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/static/v1?message=hectorpuch@protonmail.com&logo=protonmail&label=ProtonMail&color=5a5a5a&logoColor=white&labelColor=8A2BE2&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-### Technologies
+### 💻 Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-### Certifications
+### 🎓 Certifications
   
 <div align="left">
   <a href="https://www.credly.com/badges/eaac8ed8-5b4b-4144-8bce-6d264345192e/public_url" target="_blank">
