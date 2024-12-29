@@ -46,6 +46,7 @@
 ### 🛡️ TryHackMe Stats
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HectorPuch.png)
 
+
 ###
 
 ![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
