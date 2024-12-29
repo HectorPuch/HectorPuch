@@ -44,7 +44,7 @@
 </div>
 
 ### 🛡️ TryHackMe Stats
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HectorPuch.png)](https://tryhackme.com/p/Tr4ianus)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2812849" style='border:none;'></iframe>
 
 ###
 
