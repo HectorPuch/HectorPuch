@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HectorPuch&layout=compact&langs_count=5&theme=tokyonight" height="150" alt="languages graph"  />
 </div>
 
+<br>
+
 ###
 
 <p align="left">🌱 Currently diving deeper into Cyber Security and Ethical Hacking at ENTI.<br><br>💬 Feel free to reach out with any questions—I’d love to chat about tech, security, or anything you're curious about!<br><br>⚡ Did you know? Ethical hackers help protect people and organizations from cyber threats.</p>
