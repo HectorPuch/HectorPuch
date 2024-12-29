@@ -52,6 +52,8 @@
 ### 🛡️ TryHackMe Stats
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Tr4ianus.png)](https://tryhackme.com/p/Tr4ianus)
 
+<br>
+
 ###
 
 ![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
