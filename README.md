@@ -25,6 +25,7 @@
 <br>
 
 ### 🌐 Social Accounts & Email
+---
 <div align="left">
   <a href="https://www.linkedin.com/in/hectorpuch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -35,6 +36,7 @@
 </div>
 
 ### 💻 Technologies
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -46,6 +48,7 @@
 </div>
 
 ### 🎓 Certifications
+---
 <div align="left">
   <a href="https://www.credly.com/badges/eaac8ed8-5b4b-4144-8bce-6d264345192e/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75" alt="Certification 1" />
@@ -56,6 +59,7 @@
 </div>
 
 ### 🛡️ TryHackMe Stats
+---
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Tr4ianus.png)](https://tryhackme.com/p/Tr4ianus)
 
 <br>
