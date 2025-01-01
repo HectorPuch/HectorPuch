@@ -60,6 +60,9 @@
   <a href="https://www.credly.com/badges/ffd79b73-a164-4880-a999-5c945c570d78/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="75" alt="Certification 2" />
   </a>
+   <a href="https://www.credly.com/badges/ae0089f6-3412-40ea-90f9-aab7ca417634/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" height="75" alt="Certification 2" />
+  </a>
 </div>
 
 <br>
