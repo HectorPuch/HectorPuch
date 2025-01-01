@@ -79,12 +79,12 @@
 
 <br>
 
-###
-
-![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
-
-<br>
-
 ### 🧑‍💻 Profile Visitors
 ---
 <img align="center" src="https://profile-counter.glitch.me/HectorPuch/count.svg?" />
+
+<br>
+
+###
+
+![Snake animation](https://github.com/HectorPuch/HectorPuch/blob/output/snake.svg)
