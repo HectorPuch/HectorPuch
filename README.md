@@ -55,19 +55,19 @@
 ---
 <div align="left">
   <a href="https://www.credly.com/badges/eaac8ed8-5b4b-4144-8bce-6d264345192e/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="75" alt="Certification 1" />
+    <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" height="100" alt="Certification 1" />
   </a>
   <a href="https://www.credly.com/badges/f5128bf8-e961-44da-9f0d-7d6d652aabac/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="75" alt="Certification 1" />
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" alt="Certification 1" />
   </a>
   <a href="https://www.credly.com/badges/ffd79b73-a164-4880-a999-5c945c570d78/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="75" alt="Certification 2" />
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="100" alt="Certification 2" />
   </a>
    <a href="https://www.credly.com/badges/ae0089f6-3412-40ea-90f9-aab7ca417634/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" height="75" alt="Certification 2" />
+    <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" height="100" alt="Certification 2" />
   </a>
     <a href="https://www.credly.com/badges/557f4419-f37f-4169-bdb2-00f72649ac3b/public_url" target="_blank">
-    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="75" alt="Certification 2" />
+    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="100" alt="Certification 2" />
   </a>
 </div>
 
