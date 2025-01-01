@@ -24,7 +24,7 @@
 
 <br>
 
-### 🌐 Social Accounts & Email
+### 📱 Social Accounts & Email
 ---
 <div align="left">
   <a href="https://www.linkedin.com/in/hectorpuch/" target="_blank">
