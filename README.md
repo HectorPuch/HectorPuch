@@ -78,12 +78,6 @@
 
 <br>
 
-### 🛡️ TryHackMe Stats
----
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Tr4ianus.png)](https://tryhackme.com/p/Tr4ianus)
-
-<br>
-
 ### 🧑‍💻 Profile Visitors
 ---
 <img align="center" src="https://profile-counter.glitch.me/HectorPuch/count.svg?" />
