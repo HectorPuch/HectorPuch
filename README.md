@@ -3,8 +3,6 @@
 
 <br>
 
-###
-
 <p align="left">🌱 Currently diving deeper into Cyber Security and Ethical Hacking at ENTI (Escola de Noves Tecnologies Interactives).<br><br>💬 Feel free to reach out with any questions—I’d love to chat about tech, security, or anything you're curious about!<br><br>⚡ Did you know? Ethical hackers help protect people and organizations from cyber threats.</p>
 
 <br>
