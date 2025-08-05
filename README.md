@@ -20,7 +20,7 @@
 
 ### 🛠️ Projects
 ---
-- **[Tools - Docker Pentest Executor](https://github.com/HectorPuch/tools/tree/main/dockerPentest)**: I have created a repository called *tools* where i have added a Docker Pentest Executor tool. This script automates the setup and execution of pentesting scripts inside a Docker container based on Debian 12. Manages dependencies, copies attack scripts, runs them inside the container, and cleans up afterwards.
+- **[Tools](https://github.com/HectorPuch/tools)**: I have created a repository called *tools* where i have added an Active Network Scanner and Docker Pentest Executor.
 - **[HTB - Machines Walkthrough](https://github.com/HectorPuch/htb-machines)**: Under construction...
 
 <br>
