@@ -20,7 +20,7 @@
 
 ### 🛠️ Projects
 ---
-- **[Tools - Active Network Scanner](https://github.com/HectorPuch/tools/tree/main/networkScanner)**: I have created a repository called *tools* where i have added an active network scanning tool. This script allows for a quick and simple way to scan a network for active devices. It pings each IP address in a given subnet and lists the active devices. The tool is implemented in a Bash script, and it works by pinging each host within the provided network range.
+- **[Tools - Docker Pentest Executor](https://github.com/HectorPuch/tools/tree/main/dockerPentest)**: I have created a repository called *tools* where i have added a Docker Pentest Executor tool. This script automates the setup and execution of pentesting scripts inside a Docker container based on Debian 12. Manages dependencies, copies attack scripts, runs them inside the container, and cleans up afterwards.
 - **[HTB - Machines Walkthrough](https://github.com/HectorPuch/htb-machines)**: Under construction...
 
 <br>
