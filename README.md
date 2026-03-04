@@ -11,7 +11,7 @@
 
 ### 🛠️ Projects
 ---
-- **[Tools](https://github.com/HectorPuch/tools)**: I have developed a repository called 'tools', which includes an Active Network Scanner and a Docker Pentest Executor for security assessments.
+- **[Tools](https://github.com/HectorPuch/tools)**: Cybersecurity and ethical hacking tools.
 - **[TryHackMe Writeups](https://github.com/HectorPuch/thm-machines)**: Under construction...
 - **[Hack The Box Writeups](https://github.com/HectorPuch/htb-machines)**: Under construction...
 
