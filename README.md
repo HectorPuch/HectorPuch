@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hector Puch 👋</h1>
-<h2 align="center"> Cyber Security and Ethical Hacking</h2>
+<h2 align="center"> Junior Cybersecurity Technician </h2>
 
 <br>
 
